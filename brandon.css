@@ -1,0 +1,15 @@
+img {
+    border-radius: 50%;
+    display: block;
+    max-width: calc(100vw * 18/27);
+    margin: 0 auto;
+    padding: calc(100vw * 2/27) 0;
+}
+
+section {
+    padding: calc(100vw * 1/27) calc(100vw * 2/27);
+}
+
+.purpose {
+    background: rgba(165, 232, 135, .2);
+}
