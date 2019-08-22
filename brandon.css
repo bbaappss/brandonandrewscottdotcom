@@ -13,3 +13,11 @@ section {
 .purpose {
     background: rgba(165, 232, 135, .2);
 }
+
+.projects {
+    background: rgba(117, 197, 186, 0.2);
+}
+
+.connect {
+    background: rgba(241, 235, 200, 0.5);
+}
