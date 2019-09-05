@@ -1,9 +1,9 @@
 img {
-    border-radius: 50%;
+    border-radius: 114% 30%;
     display: block;
-    max-width: calc(100vw * 18/27);
+    max-width: calc(100vw * 22/27);
     margin: 0 auto;
-    padding: calc(100vw * 2/27) 0;
+    padding: calc(100vw * 2/27) 0 0;
 }
 
 section {
