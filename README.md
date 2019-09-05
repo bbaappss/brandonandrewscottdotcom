@@ -8,7 +8,7 @@ The end result will be a website that showcases my personality, style, and work.
 
 ## Human-digestable steps I've taken to get to this point
 1. I signed up for a free Github account
-1.5 I downloaded Github Desktop -- https://desktop.github.com/
+    * I downloaded Github Desktop -- https://desktop.github.com/
 2. I bought a domain at https://www.hover.com/ 
 3. I created a new repository that will hold the files for my website - https://help.github.com/en/articles/creating-a-new-repository
 4. I created an index.html following this guide - https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages
@@ -21,4 +21,4 @@ The end result will be a website that showcases my personality, style, and work.
 
 ## The next steps
 - Choose a nice font from Google fonts and invoke it
-
+- Add skeleton of structure that may turn into sections or even different pages
