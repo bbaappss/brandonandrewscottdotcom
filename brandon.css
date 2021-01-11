@@ -1,13 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
 img {
-    border-radius: 114% 30%;
     display: block;
-    max-width: calc(100vw * 22/27);
     margin: 0 auto;
-    padding: calc(100vw * 2/27) 0 0;
+    max-width: 100%;
 }
 
 section {
     padding: calc(100vw * 1/27) calc(100vw * 2/27);
+}
+
+.intro {
+    background: #f3d8d0;
 }
 
 .purpose {
@@ -20,4 +26,21 @@ section {
 
 .connect {
     background: rgba(241, 235, 200, 0.5);
+}
+
+@media (min-width: 768px) {
+    .top-of-page {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .top-of-page > * {
+        display: flex;
+        width: 50%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .top-of-page img {
+        padding: 0;
+    }
 }
