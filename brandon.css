@@ -16,7 +16,14 @@
 }
 
 .intro > div {
+    margin: 0 auto;
     padding: 0 24px 24px;
+}
+
+@media (min-width: 600px) and (max-width: 1023px) {
+    .intro > div {
+        padding-top: 32px;
+    }
 }
 
 img {
@@ -52,7 +59,7 @@ img {
         justify-content: center;
         align-items: center;
     }
-    
+
     .page-container img {
         padding: 0;
     }
